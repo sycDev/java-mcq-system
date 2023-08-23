@@ -1,0 +1,11 @@
+Quiz_No,Quiz_Question,A,B,C,D,Answer_1,Answer_2,Answer_3,Answer_4,Answers,Explanation
+1,Who invented Java language?,Dennis Ritchie,James Gosling,Larry Page,Serge Page,B,,,,B) James Gosling,James Gosling along with his team members Mike Sheridan and Patrick Naughton developed Java language
+2,What is the original name of Java Programming language?,J++,C++,OAK,TEAK,C,,,,C) OAK,Java was named after an OAK tree outside James Gosling's office
+3,The name JAVA is known to the world as?,A Tea Brand in India,A Coffee Brand in Africa,An Island in Indonesia,Ragi Malt Juice,C,,,,C) An Island in Indonesia,Indonesia is a group of volcanis Islands with Java sea on one side
+4,What is the file name extension of a Java source program?,.j,.java,.class,.jax,B,,,,B) .java,
+5,What is a Compiler?,A Compiler converts instructions line by line,A compiler converts source code to low-level code,Compilers work fast,Compiler is an interpreter,B,C,,,B) A compiler converts source code to low-level code;C) Compilers work fast,
+6,What is the output of Compilation of Java Program?,.class file,.javax file,.jc class,.java file,A,,,,A) .class file,
+7,What software compiles a Java Program?,JRE (Java Runtime Environment),JDK (Java Developer Kit),JVM (Java Virtual Machine),Command Prompt,B,,,,B) JDK (Java Developer Kit),
+8,What software runs a Java program on a computer?,JRE (Java Runtime Environment),JDK (Java Developer Kit),JVM (Java Virtual Machine),Command Prompt,A,,,,A) JRE (Java Runtime Environment),
+9,Which method is mandatory in standalone Java applications?,print method,show method,display method,main method,D,,,,D) main method,main() is the starting point of execution
+10,Every statement in Java language should end with a _______?,Dot or Period,Comma,Semicolon,Colon,C,,,,C) Semicolon,

@@ -1,0 +1,11 @@
+Quiz_No,Quiz_Question,A,B,C,D,Answer_1,Answer_2,Answer_3,Answer_4,Answers,Explanation
+1,HTML is what type of language?,Scripting Language,Markup Language,Programming Language,Network Protocol,B,,,,B) Markup Language,
+2,What is the full form of HTML?,HyperText Markup Language,Hyper Teach Markup Language,Hyper Tech Markup Language,,A,,,,A) HyperText Markup Language,
+3,Who is Known as the father of World Wide Web (WWW)?,Robert Cailliau,Tim Thompson,Charles Darwin,Tim Berners-Lee,D,,,,D) Tim Berners-Lee,
+4,What should be the first tag in any HTML document?,<head>,<title>,<html>,<document>,C,,,,C) <html>,
+5,HTML web pages can be read and rendered by ______.,Compiler,Server,Web Browser,Interpreter,C,,,,C) Web Browser,
+6,Which of the following is not a browser?,Microsoft's Bing,Netscape Navigator,Mozilla Firefox,Opera,A,,,,A) Microsoft's Bing,
+7,HTML uses ______.,User defined tags,Pre-specified tags,Fixed tags defined by the language,Tags only for linking,C,,,,C) Fixed tags defined by the language,
+8,What other tag makes text bold except the <b> tag?,<fat>,<strong>,<black>,<emp>,B,,,,B) <strong>,
+9,What tag is used to display a picture in a HTML page?,picture,image,img,src,C,,,,C) img,
+10,Which HTML tag produces the biggest heading?,<h7>,<h9>,<h4>,<h1>,D,,,,D) <h1>,

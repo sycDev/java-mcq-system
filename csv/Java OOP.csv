@@ -1,0 +1,11 @@
+Quiz_No,Quiz_Question,A,B,C,D,Answer_1,Answer_2,Answer_3,Answer_4,Answers,Explanation
+1,What are the features of an Object Oriented Programming?,Inheritance,Encapsulation,Polymorphism,Abstraction,A,B,C,D,A) Inheritance;B) Encapsulation;C) Polymorphism;D) Abstraction,
+2,Class B inherits only from Class A in a Single Inheritance.,TRUE,FALSE,,,A,,,,A) TRUE,
+3,The last subclass inherits methods and properties of ______ in a Multi-level Inheritance in Java.,Only one immediate Superclass,Few classes above it,All classes above it,None,C,,,,C) All classes above it,The last class inherits all of the properties and methods of all of the classes above it in the chain.
+4,You cannot inherit a Superclass's constructor even after using inheritance in Java.,TRUE,FALSE,,,A,,,,A) TRUE,A Construtor is class-specific. It is not like a method that can be shared.
+5,A method of a Superclass cannot override the method of the Subclass.,TRUE,FALSE,,,A,,,,A) TRUE,True. Only Subclass methods can override the methods of a Superclass.
+6,An abstract class in Java can be created using the keyword ______.,final,interface,abstract,static,C,,,,C) final,"You should precede the keyword ""abstract"" before the keyword ""class""."
+7,Can you create an object from an abstract class in Java?,Yes,No,,,B,,,,B) Yes,
+8,An abstract class in Java usually contains one or more abstract ______.,constructors,methods,variables,,B,,,,B) constructors,Developers usually write abstract classes with one or more abstract methods to be implemented after inheriting the class.
+9,An interface in Java is like 100% ______.,abstract class,public class,inner class,anonymous class,A,,,,A) abstract class,"If 100% of methods in an abstract class are marked abstract, then it is comparable to an Interface in Java."
+10,A Java interface is not consider as a class.,TRUE,FALSE,,,A,,,,A) TRUE,A class and an Interface have different inheritance rules.
